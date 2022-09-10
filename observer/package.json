@@ -1,0 +1,13 @@
+{
+  "name": "observer-pattern",
+  "version": "1.0.0",
+  "description": "observer",
+  "main": ".dist/Youtube.js",
+  "scripts": {
+    "prestart": "tsc Youtube.ts --outDir .dist",
+    "start": "node .dist/Youtube.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
