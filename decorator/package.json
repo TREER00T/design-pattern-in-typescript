@@ -1,0 +1,13 @@
+{
+  "name": "decorator-pattern",
+  "version": "1.0.0",
+  "description": "decorator",
+  "main": ".dist/index.js",
+  "scripts": {
+    "prestart": "tsc index.ts --outDir .dist",
+    "start": "node .dist/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
