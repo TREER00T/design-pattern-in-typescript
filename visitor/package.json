@@ -1,7 +1,7 @@
 {
-  "name": "mediator-pattern",
+  "name": "visitor-pattern",
   "version": "1.0.0",
-  "description": "mediator",
+  "description": "visitor",
   "main": ".dist/index.js",
   "scripts": {
     "prestart": "tsc index.ts --outDir .dist",
